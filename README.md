@@ -56,3 +56,12 @@ Some Of The Insights Are the Following :
 -DAX Query & Data Analysis
 -Sales Forecasting
 -Creating  Table Using DAX
+
+#Dashboard of Puma Store
+![Screenshot 50](https://github.com/sanjivani999/PowerBi_dashboard_Puma_store/assets/101619527/327a3ec5-c9ac-46e7-bc55-991dc936f408)
+
+#Forecasting
+![Screenshot 51](https://github.com/sanjivani999/PowerBi_dashboard_Puma_store/assets/101619527/3fea483f-d1b2-403e-8a25-fe2f7dfe4b9d)
+
+#Data of Puma Store
+![Screenshot 53](https://github.com/sanjivani999/PowerBi_dashboard_Puma_store/assets/101619527/e7c642d0-b38c-462e-a8e7-6adf4dded4f6)
